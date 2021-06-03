@@ -1,0 +1,2 @@
+# py/AW_REST.py: 1
+requests == 2.25.1
